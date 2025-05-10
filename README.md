@@ -72,7 +72,7 @@ Begin with [Module 1: Rust Fundamentals](./modules/module1-fundamentals/README.m
 ## 📩 Submit Your Project!
 
 🎯 **Completed the final challenge? Submit your project here:**
-📢 [Submission Form](https://github.com/pt-icp-hub/ICP-Bootcamp-Vibe-Coding-Index/issues/new?assignees=&labels=submission&template=submission.md&title=Rust+Beginner+Bootcamp+Submission)
+📢 [Submission Form](https://forms.gle/Sgmm1y2bLXYY7mwC6)
 
 📌 **Want to explore more challenges? Return to the index:**
 🔗 [ICP Bootcamp Index](https://github.com/pt-icp-hub/ICP-Bootcamp-Vibe-Coding-Index)
