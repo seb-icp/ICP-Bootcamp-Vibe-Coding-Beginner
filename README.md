@@ -1,5 +1,10 @@
 # 🦀🔥 IC Vibe Coding Bootcamp - Rust Beginner Edition
 
+## 📚 Online Documentation
+
+For easier navigation through the bootcamp materials, visit our GitHub Pages site:
+[📖 Bootcamp Documentation](https://pt-icp-hub.github.io/ICP-Bootcamp-Vibe-Coding-Beginner/)
+
 Welcome to the **IC Vibe Coding Bootcamp (Rust Beginner Edition)**! This bootcamp is designed to help you learn Rust programming language fundamentals and prepare you for Internet Computer Protocol (ICP) development. Whether you're completely new to Rust or looking to strengthen your foundational knowledge, this bootcamp will give you the skills you need to start building on the Internet Computer.
 
 ---
