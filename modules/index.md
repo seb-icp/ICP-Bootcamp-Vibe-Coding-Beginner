@@ -55,7 +55,7 @@ A **devcontainer** is preconfigured for you to start coding instantly!
 
 ### Start Learning!
 
-Begin with [Module 1: Rust Fundamentals](./modules/module1-fundamentals/README.md) and progress through the materials and exercises at your own pace.
+Begin with [Module 1: Rust Fundamentals](module1-fundamentals/README.md) and progress through the materials and exercises at your own pace.
 
 ---
 
