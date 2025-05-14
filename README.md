@@ -32,11 +32,11 @@ This bootcamp is organized into **Core Modules** (essential for everyone) and **
 - [Module 3: Data Types](./modules/module3-data-types/README.md) - Structs, enums, and pattern matching
 - [Module 4: Code Organization](./modules/module4-code-organization/README.md) - Packages, crates, and modules
 - [Module 5: Collections](./modules/module5-collections/README.md) - Working with collections in Rust
-- [Module 7: ICP Integration](./modules/module7-icp-integration/README.md) - Internet Computer Protocol and Rust integration
 
 ### 📦 Optional Modules
 
 - [Module 6: Advanced Concepts](./modules/module6-advanced-concepts/README.md) - Traits, error handling, and testing
+- [Module 7: ICP Integration](./modules/module7-icp-integration/README.md) - Internet Computer Protocol and Rust integration
 
 ### 🔥 Final Challenge
 
