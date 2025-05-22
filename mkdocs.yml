@@ -1,6 +1,6 @@
 site_name: Rust Bootcamp with Vibe Coding
 site_description: Learn Rust programming with a focus on practical applications and Internet Computer development
-site_url: https://espieux.github.io/ICP-Bootcamp-Vibe-Coding-Beginner
+site_url: https://pt-icp-hub.github.io/ICP-Bootcamp-Vibe-Coding-Beginner
 
 docs_dir: modules
 
