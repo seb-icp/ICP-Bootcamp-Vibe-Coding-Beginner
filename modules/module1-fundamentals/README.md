@@ -15,25 +15,11 @@ This module introduces you to the Rust programming language, guides you through 
 
 ## Topics Covered
 
-1. Introduction to Rust
-
-   - What is Rust?
-   - Benefits of Rust
-   - The Rust ecosystem
-
-2. Getting Started
-
-   - Setting up Rust (rustup, cargo)
-   - Using the Rust Playground
-   - Hello World program
-   - Understanding Rust compilation
-
-3. Basic Programming Concepts
-   - Variables and mutability
-   - Basic data types (integers, floating-point, booleans, characters, etc.)
-   - Functions
-   - Comments
-   - Control flow (if/else, loops)
+- Getting Started with Rust
+- Variables
+- Data Types
+- Functions
+- Control Flow
 
 ## Exercises
 

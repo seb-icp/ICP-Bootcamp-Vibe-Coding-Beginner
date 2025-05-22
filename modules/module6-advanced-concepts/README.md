@@ -15,32 +15,10 @@ This module covers advanced Rust concepts including traits, error handling, test
 
 ## Topics Covered
 
-1. Traits
-
-   - Defining and implementing traits
-   - Default implementations
-   - Trait bounds and trait objects
-   - The most common standard library traits
-
-2. Error Handling
-
-   - The `panic!` macro and when to use it
-   - Recoverable errors with `Result<T, E>`
-   - Propagating errors with the `?` operator
-   - Creating custom error types
-
-3. Testing
-
-   - Writing unit tests
-   - Test organization and conventions
-   - Using assertions
-   - Integration tests
-
-4. CLI Applications
-   - Parsing command-line arguments
-   - Using CLI libraries like `clap` or `structopt`
-   - Reading from and writing to the terminal
-   - Exit codes and error reporting
+- Traits
+- Error Handling
+- Testing
+- CLI Applications
 
 ## Exercises
 

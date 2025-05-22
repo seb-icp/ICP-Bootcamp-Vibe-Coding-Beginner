@@ -15,23 +15,9 @@ This module covers Rust's code organization concepts, teaching you how to struct
 
 ## Topics Covered
 
-1. Packages and Crates
-
-   - Understanding the relationship between packages and crates
-   - Creating and managing a package with Cargo
-   - Binary crates vs. library crates
-
-2. Modules
-
-   - Defining modules and their hierarchy
-   - Module visibility rules
-   - The `pub` keyword and exposing APIs
-
-3. Paths
-   - Referring to items in the module tree
-   - Absolute vs. relative paths
-   - The `use` keyword for bringing paths into scope
-   - Re-exporting names with `pub use`
+- Packages and Crates
+- Modules
+- Paths
 
 ## Exercises
 

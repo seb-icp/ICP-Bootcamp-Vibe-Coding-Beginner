@@ -15,25 +15,9 @@ This module covers Rust's custom data types, including structs and enums, which 
 
 ## Topics Covered
 
-1. Structs
-
-   - Defining and creating structs
-   - Struct update syntax
-   - Methods and associated functions
-   - Tuple structs and unit structs
-
-2. Enums
-
-   - Defining enums
-   - Enums with data
-   - The `Option<T>` enum
-   - The `Result<T, E>` enum
-
-3. Pattern Matching
-   - `match` expressions
-   - Patterns and matching
-   - `if let` syntax
-   - `while let` syntax
+- Structs
+- Enums
+- Pattern Matching
 
 ## Exercises
 

@@ -15,25 +15,9 @@ This module covers Rust's standard collection types, which are essential for sto
 
 ## Topics Covered
 
-1. Vectors
-
-   - Creating and updating vectors
-   - Reading elements from vectors
-   - Iterating over vectors
-   - Using different types in vectors with enums
-
-2. Strings
-
-   - String vs. &str
-   - Creating and manipulating strings
-   - UTF-8 encoding and considerations
-   - String operations and methods
-
-3. Hash Maps
-   - Creating and updating hash maps
-   - Accessing values in hash maps
-   - Iterating over hash maps
-   - Common hash map patterns
+- Vectors
+- Strings
+- Hash Maps
 
 ## Exercises
 

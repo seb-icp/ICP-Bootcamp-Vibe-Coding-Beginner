@@ -15,28 +15,10 @@ This module covers Rust's unique approach to memory management through ownership
 
 ## Topics Covered
 
-1. Memory Concepts
-
-   - Stack vs. Heap
-   - Memory allocation and deallocation
-   - Understanding memory safety challenges
-
-2. Ownership
-
-   - Ownership rules
-   - Move semantics
-   - Clone and Copy traits
-
-3. Borrowing
-
-   - References and borrowing
-   - Mutable and immutable references
-   - Reference rules and validations
-
-4. Slices
-   - String slices
-   - Array slices
-   - Using slices in functions
+- Memory Concepts
+- Ownership
+- Borrowing
+- Slices
 
 ## Exercises
 
